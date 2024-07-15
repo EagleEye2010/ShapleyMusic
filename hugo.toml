@@ -1,0 +1,63 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Shapley Music'
+theme = 'Universal'
+
+[[menu.main]]
+  name = "Home"
+  identifier = "menu.home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Bio"
+  identifier = "menu.bio"
+  url = "/bio"
+  weight = 2
+
+[[menu.main]]
+  name = "Jazz Octet & Live Music"
+  identifier = "menu.jazz"
+  url = "/jazz"
+  weight = 3
+
+[[menu.main]]
+  name = "Educational Jazz Programs"
+  identifier = "menu.programs"
+  url = "/programs"
+  weight = 4
+
+[[menu.main]]
+  name = "Jazz CD's"
+  identifier = "menu.cd"
+  url = "/cd"
+  weight = 5
+
+[[menu.main]]
+  name = "Media"
+  identifier = "menu.media"
+  url = "/media"
+  weight = 6
+
+[params]
+  disabled_logo = false
+  style = "green"
+  logo_text = "Shapley Music"
+  logo = "img/ShapleyMusicLogo.png"
+  about_us = "This is some placeholder text. You can use this to talk about your company and describe your mission statement."
+  address = "555 Lester Rd.<br>Fayetteville, GA 30215<br><br>"
+
+[params.testimonials]
+  enable = true
+  title = "Reviews"
+  subtitle = "Have a look at what our clients say about us:"
+
+[params.carouselTestimonials]
+  items = 5
+  auto_play = true
+  slide_speed = 2000
+  pagination_speed = 1000
+
+[params.topbar]
+  enable = true
+  text = """<p>Contact us at <strong>(770) 361-9405</strong> or email <strong><a href="mailto:john@shapleymusic.com">john@shapleymusic.com</a></strong>!</p>"""

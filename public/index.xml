@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shapley Music</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Shapley Music</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jul 2024 16:01:43 -0400</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bio</title>
+      <link>https://example.org/bio/</link>
+      <pubDate>Sat, 13 Jul 2024 16:01:43 -0400</pubDate>
+      <guid>https://example.org/bio/</guid>
+      <description>John Shapley&amp;rsquo;s talents include mastery of all the saxophones, flute and clarinet. A graduate of Florida State University College of Music and the Eastman School of Music, John Shapley&amp;rsquo;s musical ensembles have entertained audiences in jazz clubs and music festivals throughout the southeastern United States. He has appeared at several notable south Florida venues including the Hollywood Jazz Festival, O&amp;rsquo;Hara&amp;rsquo;s Jazz Club, The Jazz Showcase, The Miami Centre for the Performing Arts and the Art Deco Festival.</description>
+    </item>
+  </channel>
+</rss>
